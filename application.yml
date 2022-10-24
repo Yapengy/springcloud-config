@@ -8,6 +8,7 @@ spring:
   application:
     name: springcloud-config-dev
 
+
 ---
 spring:
   profile: test
